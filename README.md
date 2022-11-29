@@ -28,6 +28,6 @@
 
 
 
-- 🍻 University of Sheffield, _BSc in Software Engineering_  
+# University of Sheffield, _BSc in Software Engineering_  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terenzzzz&layout=compact)](https://github.com/terenzzzz/github-readme-stats)
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=terenzzzz)]()  
+<!-- [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=terenzzzz)]()   -->
