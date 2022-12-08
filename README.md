@@ -26,5 +26,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terenzzzz&layout=compact)](https://github.com/terenzzzz/github-readme-stats)
-<!-- [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=terenzzzz)]()   -->
+<a href="https://github.com/terenzzzz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=terenzzzz&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terenzzzz&layout=compact" />
+</a>
