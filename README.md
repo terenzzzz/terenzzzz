@@ -24,5 +24,3 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?terenzzzz" frameborder="0"></iframe>
