@@ -25,5 +25,4 @@
 
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terenzzzz&langs_count=8)
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?terenzzzz" frameborder="0"></iframe>
