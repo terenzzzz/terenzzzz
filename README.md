@@ -28,5 +28,6 @@
 
 <a href="https://github.com/terenzzzz">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=terenzzzz&count_private=true&show_icons=true" /> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terenzzzz&layout=compact" />
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </a>
