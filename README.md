@@ -24,6 +24,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   
  
-   
+![](https://pixel-profile.vercel.app/api/github-stats?username=Terenzzzz&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb))
  
 
