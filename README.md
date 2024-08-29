@@ -55,6 +55,7 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-3c8f3a?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Nginx](https://img.shields.io/badge/Nginx-3c8f3a?style=for-the-badge&logo=nginx&logoColor=white)
   ![OpenGL](https://img.shields.io/badge/OpenGL-3b6898?style=for-the-badge&logo=openGL&logoColor=white)
+  ![SWIFT](https://img.shields.io/badge/SWIFT-fc2420?style=for-the-badge&logo=swift&logoColor=white)
 
   
 
