@@ -8,6 +8,8 @@
 "Hi, I'm Tenenzzzz! Glad to meet you!"
 >>> tenenzzzz.name
 ['Terence', 'Zhicong']
+>>> tenenzzzz.job
+['Front-end Developer', 'Shopify Theme Developer']
 >>> tenenzzzz.interests
 ['Kitty🐈', 'Music🎵', 'Cocktail🍹']
 >>> tenenzzzz.degree
